@@ -605,7 +605,6 @@ html {
     align-items: center;
     background: var(--primaryColor);
     overflow: hidden;
-    margin-top: -25px;
     height: 5em;
     font-size: 1rem;
 }
