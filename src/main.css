@@ -665,6 +665,12 @@ html {
     }
 }
 
+@media screen and (min-height: 768px) {
+    .skills__card {
+        justify-content: center;
+    }
+}
+
 @keyframes rotate {
     0% {
         transform: rotate3d(0);
