@@ -665,7 +665,7 @@ html {
     }
 }
 
-@media screen and (max-height: 1080px) {
+@media screen and (min-height: 769px) {
     .skills__card {
         justify-content: center;
     }
